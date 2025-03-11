@@ -86,5 +86,5 @@ The higher the score, the more coherent the clustering. In our analysis, KMeans 
 
    Despite being the smallest group, these titles have significantly higher total ratings (often in the hundreds of thousands to millions), indicating broad appeal or a strong fan base. Some are still ongoing, but many are completed, long-running hits.
 
-### Streamlit app of the deplpyed model
+### Streamlit app of the deplpoyd model
 https://project-8-app-1.streamlit.app/
